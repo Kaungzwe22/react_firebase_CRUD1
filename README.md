@@ -2,7 +2,7 @@ React And Firebase Firestore Basic CRUD Tutorial
 
 create react app with vite
 ```
-  npm create-project vite@latest react_firebase_CRUD
+  npm create vite@latest react_firebase_CRUD
   npm install 
 ```
 Then Install firebase 
