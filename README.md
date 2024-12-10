@@ -1,8 +1,19 @@
-# React + Vite
+React And Firebase Firestore Basic CRUD Tutorial 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+create react app with vite
+```
+  npm create-project vite@latest react_firebase_CRUD
+  npm install 
+```
+Then Install firebase 
+```
+  npm install fireabase
+  npm install @react-firebase/firestore
+```
+install bootstrap for ui
+```
+  npm install bootstrap
+```
+in firebase-config.js, add you own config data from your firebase account
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
